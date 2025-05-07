@@ -1,5 +1,5 @@
 # McCall Job Search Model Solver
-A Python library for solving the classic McCall job search model. Compute the optimal reservation wage and expected unemployment value for a worker facing stochastic wage offers.
+A Python script for solving the classic McCall job search model. Compute the optimal reservation wage and expected unemployment value for a worker facing stochastic wage offers.
 
 ---
 
