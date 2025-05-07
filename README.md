@@ -30,7 +30,7 @@ The solver iterates on `R` until the fixed‐point condition above is satisfied.
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 You can customize:
 
@@ -41,7 +41,7 @@ You can customize:
 
 ---
 
-## 📈 Interpreting Results
+## Interpreting Results
 
 * **Reservation Wage (`R`)**:  Reject any offer below `R`.
 * **Unemployment Value (`V_U`)**: Expected discounted payoff when unemployed.
